@@ -6,7 +6,7 @@ Time spent: **1** hours spent in total
 
 ## Summary
 
-**CodeZen** is an android app that ****
+**CodeZen** is an android app that **provides users with inspirational quotes to encourage a mindful and focused coding experience.**
 
 If I had to describe this project in three (3) emojis, they would be: **🖥️🔠🧠**
 
@@ -22,9 +22,9 @@ The following REQUIRED features are completed:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-
-<img src='.gif' title='Video Demo' width='' alt='Video Demo' />
-
+<p align = center>
+    <img src='https://imgur.com/7i28oui.gif' title='Video Demo' width='' alt='Video Demo' />
+</p>
 GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
